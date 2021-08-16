@@ -1,7 +1,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![](https://ga4gh.datainsights.cloud/api?repo=dlnd-deployment)](https://github.com/SaschaDittmann/gaforgithub)
 
-# Face Generation using DCGANs
+# Machine Learning Deployment using AWS SageMaker
 
 This repo contains my solution of Machine Learning Deployment project of the [Udacity Deep Learning Nanodegree™️](https://www.udacity.com/course/deep-learning-nanodegree--nd101) program.
 
